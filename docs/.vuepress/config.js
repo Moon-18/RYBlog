@@ -1,6 +1,7 @@
 import { defineUserConfig, defaultTheme } from 'vuepress';
 
 export default {
+	base:"/RYBlog",
 	theme: defaultTheme({
 		// 侧边栏数组
 		// 所有页面会使用相同的侧边栏
