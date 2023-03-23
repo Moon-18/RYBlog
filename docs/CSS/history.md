@@ -54,7 +54,7 @@
 
   - 中括号一类选择器
 
-    ![image-20221224115530707](img/image-20221224115530707.png)
+    <!-- ![image-20221224115530707](img/image-20221224115530707.png) -->
 
 # 字体
 
@@ -86,9 +86,9 @@
 
 - 行内样式：使用 HTML 标签的 style 属性定义 CSS 样式；
 
-- 内嵌样式：使用 <style> 标签在 HTML 文档头部（<head> 和 <head> 之间）定义 CSS 样式；
+- 内嵌样式：使用 < style> 标签在 HTML 文档头部（< head> 和 < head> 之间）定义 CSS 样式；
 
-- 链接式：使用 <link> 标签引入外部 CSS 样式表文件。
+- 链接式：使用 < link> 标签引入外部 CSS 样式表文件。
 
   <link href="index.css" type="text/css" rel="stylesheet" />
 
@@ -173,7 +173,7 @@
 - 位置,background-position 属性可以改变图片在背景中的位置
   - background-position:x y;
   - 坐标系
-- 背景颜色渐变linear-gradient![image-20221224143837279](img/image-20221224143837279.png)
+<!-- - 背景颜色渐变linear-gradient![image-20221224143837279](img/image-20221224143837279.png) -->
 - 固定,background-attachment 属性设置背景图像是否固定或者随着页面的其余部分滚动。
 - 合起来,background: 背景颜色 背景图片地址 背景平铺 背景图像滚动 背景图片位置;
 
@@ -183,7 +183,7 @@
 - 继承性,子标签会继承父标签的某些样式（text-，font-，line-这些元素开头的可以继承，以及color属性）行高可以跟单位也可以不跟单位- 如果子元素没有设置行高，则会继承父元素的行高为 1.5- 此时子元素的行高是：当前子元素的文字大小font-side * 1.5- body 行高 1.5 这样写法最大的优势就是里面子元素可以根据自己文字大小自动调整行高
 - 优先级
   - 当同一个元素指定多个选择器，就会有优先级的产生。
-  - <img src="img/c9ba65df30488471c60340d12cfc1fa6.png" alt="1571490129794">
+  - <img src="./img/c9ba65df30488471c60340d12cfc1fa6.png" alt="1571490129794">
   - 不会有进位,从左向右比较
   - 符合选择器权重叠加
 
@@ -197,7 +197,7 @@
 
 # 盒模型
 
-- <img src="img/2148da15b0e6ba7b206442ccb5ff9624.png" alt="1571492536942">
+- <img src="./img/2148da15b0e6ba7b206442ccb5ff9624.png" alt="1571492536942">
 
 - content
 

@@ -10,7 +10,7 @@
 <ul>
 <li>随手记录内容</li>
 <li>攒到一定程度后提交内容</li>
-<li>运行脚本更新网站</li>
+<li>运行脚本更新网站 双击publish.sh</li>
 </ul>
 <h2 id="技术选型" tabindex="-1"><a class="header-anchor" href="#技术选型" aria-hidden="true">#</a> 技术选型</h2>
 <p>对于我来说，文档站需要满足以下要求</p>
